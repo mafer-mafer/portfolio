@@ -19,3 +19,39 @@ form div {
   margin: 1em;
   display: inline-block;
 }
+
+/* NAVIGATION BAR */
+
+.sidenav {
+  height: 100%;
+  width: 17%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(233, 192, 192);
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#navbar-maria-fernanda {
+  color: black;
+}
+#navbar-maria-fernanda:hover {
+  color: pink;
+}
+
+#navbar-maria-fernanda:link {
+  color: inherit;
+}
+
+.navbar-first-links {
+  font-size: 25px;
+}
+
+#first-link {
+  margin-top: 5px;
+  margin-left: inherit;
+}
