@@ -1,8 +1,5 @@
 import React from "react";
 
-/**
- * COMPONENT
- */
 export const Home = (props) => {
   return (
     <div>
